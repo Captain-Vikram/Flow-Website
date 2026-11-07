@@ -245,7 +245,7 @@ export function ChangelogPage() {
     const [expanded, setExpanded] = useState<Set<string>>(new Set())
 
     useEffect(() => {
-        fetch('/changelogs.json')
+        fetch(`${import.meta.env.BASE_URL}changelogs.json`)
             .then(res => res.json())
             .then((data: RawEntry[]) => {
                 const parsed = (Array.isArray(data) ? data : [])

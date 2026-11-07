@@ -3,8 +3,11 @@
   <head>
     <meta charset="utf-8" />
     <script>
-      sessionStorage.redirect = location.href
-      location.replace(location.origin + location.pathname.split('/').slice(0, -1).join('/') + '/')
+      var pathSegments = location.pathname.split('/').filter(Boolean);
+      var isProjectPages = location.hostname.endsWith('github.io') && pathSegments.length > 0;
+      var basePath = isProjectPages ? '/' + pathSegments[0] + '/' : '/';
+      sessionStorage.redirect = location.href;
+      location.replace(location.origin + basePath);
     </script>
   </head>
   <body></body>

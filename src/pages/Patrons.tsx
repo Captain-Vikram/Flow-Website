@@ -72,7 +72,7 @@ export function Patrons() {
     const [loaded, setLoaded] = useState(false)
 
     useEffect(() => {
-        fetch('/patrons.json')
+        fetch(`${import.meta.env.BASE_URL}patrons.json`)
             .then(res => res.json())
             .then(data => {
                 if (data && Array.isArray(data.tiers)) {

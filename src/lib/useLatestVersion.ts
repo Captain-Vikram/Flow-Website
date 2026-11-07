@@ -20,7 +20,7 @@ function isPreRelease(entry: { content: string; status?: string }) {
 
 function load(): Promise<string | null> {
     if (!pending) {
-        pending = fetch('/changelogs.json')
+        pending = fetch(`${import.meta.env.BASE_URL}changelogs.json`)
             .then(res => res.json())
             .then((entries: { content: string; platform?: string; status?: string }[]) => {
                 const versions = entries

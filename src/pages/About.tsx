@@ -57,7 +57,7 @@ export function About() {
     const [filter, setFilter] = useState('all')
 
     useEffect(() => {
-        fetch('/contributors.json')
+        fetch(`${import.meta.env.BASE_URL}contributors.json`)
             .then(res => res.json())
             .then((json: ContributorsData) => {
                 if (json && Array.isArray(json.contributors)) setData(json)

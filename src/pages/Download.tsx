@@ -176,7 +176,7 @@ export function Download() {
     const [copied, setCopied] = useState<string | null>(null)
 
     useEffect(() => {
-        fetch('/downloads.json')
+        fetch(`${import.meta.env.BASE_URL}downloads.json`)
             .then(res => res.json())
             .then((json: Downloads) => setData(json))
             .catch(() => setFailed(true))

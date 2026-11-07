@@ -11,7 +11,7 @@ let pending: Promise<Stats | null> | null = null
 
 function load(): Promise<Stats | null> {
     if (!pending) {
-        pending = fetch('/stats.json')
+        pending = fetch(`${import.meta.env.BASE_URL}stats.json`)
             .then(res => res.json())
             .then(data => {
                 cache = {

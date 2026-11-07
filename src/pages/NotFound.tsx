@@ -23,7 +23,7 @@ export function NotFound() {
                     <motion.img 
                         animate={{ y: [0, -15, 0] }}
                         transition={{ repeat: Infinity, duration: 6, ease: "easeInOut" }}
-                        src="/404Flow.webp" 
+                        src={`${import.meta.env.BASE_URL}404Flow.webp`} 
                         alt="404 Illustration" 
                         className="w-full h-auto max-h-[45vh] md:max-h-[55vh] object-contain drop-shadow-2xl filter"
                     />
