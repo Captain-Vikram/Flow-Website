@@ -154,21 +154,21 @@
       ]
     },
     {
+      "login": "Captain-Vikram",
+      "avatar_url": "https://avatars.githubusercontent.com/u/143620162?v=4",
+      "html_url": "https://github.com/Captain-Vikram",
+      "contributions": 12,
+      "repos": [
+        "desktop"
+      ]
+    },
+    {
       "login": "AhmedRX20",
       "avatar_url": "https://avatars.githubusercontent.com/u/193402786?v=4",
       "html_url": "https://github.com/AhmedRX20",
       "contributions": 11,
       "repos": [
         "android"
-      ]
-    },
-    {
-      "login": "Captain-Vikram",
-      "avatar_url": "https://avatars.githubusercontent.com/u/143620162?v=4",
-      "html_url": "https://github.com/Captain-Vikram",
-      "contributions": 10,
-      "repos": [
-        "desktop"
       ]
     },
     {
@@ -817,6 +817,15 @@
       "contributions": 1,
       "repos": [
         "android"
+      ]
+    },
+    {
+      "login": "Spectra47",
+      "avatar_url": "https://avatars.githubusercontent.com/u/58440212?v=4",
+      "html_url": "https://github.com/Spectra47",
+      "contributions": 1,
+      "repos": [
+        "desktop"
       ]
     },
     {
