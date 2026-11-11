@@ -178,69 +178,69 @@
       "run": 2260
     },
     "desktop": {
-      "created": "2026-11-10T22:18:39Z",
-      "run_url": "https://github.com/Flow-Tube/Flow-Desktop/actions/runs/42913358077",
-      "commit": "fa69456",
+      "created": "2026-11-11T11:02:19Z",
+      "run_url": "https://github.com/Flow-Tube/Flow-Desktop/actions/runs/43008597870",
+      "commit": "b0823e9",
       "artifacts": [
         {
-          "name": "Flow-nightly-linux-x64-flatpak-1465",
-          "size": 31862219,
-          "url": "https://nightly.link/Flow-Tube/Flow-Desktop/actions/runs/42913358077/Flow-nightly-linux-x64-flatpak-1465.zip"
+          "name": "Flow-nightly-windows-x64-1474",
+          "size": 15550370,
+          "url": "https://nightly.link/Flow-Tube/Flow-Desktop/actions/runs/43008597870/Flow-nightly-windows-x64-1474.zip"
         },
         {
-          "name": "Flow-nightly-windows-arm64-1465",
-          "size": 14023006,
-          "url": "https://nightly.link/Flow-Tube/Flow-Desktop/actions/runs/42913358077/Flow-nightly-windows-arm64-1465.zip"
+          "name": "Flow-nightly-linux-x64-appimage-1474",
+          "size": 182549314,
+          "url": "https://nightly.link/Flow-Tube/Flow-Desktop/actions/runs/43008597870/Flow-nightly-linux-x64-appimage-1474.zip"
         },
         {
-          "name": "Flow-nightly-macos-x64-1465",
-          "size": 22084537,
-          "url": "https://nightly.link/Flow-Tube/Flow-Desktop/actions/runs/42913358077/Flow-nightly-macos-x64-1465.zip"
+          "name": "Flow-nightly-macos-x64-1474",
+          "size": 22052390,
+          "url": "https://nightly.link/Flow-Tube/Flow-Desktop/actions/runs/43008597870/Flow-nightly-macos-x64-1474.zip"
         },
         {
-          "name": "Flow-nightly-windows-x64-1465",
-          "size": 15512539,
-          "url": "https://nightly.link/Flow-Tube/Flow-Desktop/actions/runs/42913358077/Flow-nightly-windows-x64-1465.zip"
+          "name": "Flow-nightly-linux-x64-flatpak-1474",
+          "size": 31868543,
+          "url": "https://nightly.link/Flow-Tube/Flow-Desktop/actions/runs/43008597870/Flow-nightly-linux-x64-flatpak-1474.zip"
         },
         {
-          "name": "Flow-nightly-linux-x64-rpm-1465",
-          "size": 24188583,
-          "url": "https://nightly.link/Flow-Tube/Flow-Desktop/actions/runs/42913358077/Flow-nightly-linux-x64-rpm-1465.zip"
+          "name": "Flow-nightly-linux-x64-deb-1474",
+          "size": 24318295,
+          "url": "https://nightly.link/Flow-Tube/Flow-Desktop/actions/runs/43008597870/Flow-nightly-linux-x64-deb-1474.zip"
         },
         {
-          "name": "Flow-nightly-linux-x64-appimage-1465",
-          "size": 182415913,
-          "url": "https://nightly.link/Flow-Tube/Flow-Desktop/actions/runs/42913358077/Flow-nightly-linux-x64-appimage-1465.zip"
+          "name": "Flow-nightly-linux-arm64-deb-1474",
+          "size": 23098559,
+          "url": "https://nightly.link/Flow-Tube/Flow-Desktop/actions/runs/43008597870/Flow-nightly-linux-arm64-deb-1474.zip"
         },
         {
-          "name": "Flow-nightly-linux-arm64-rpm-1465",
-          "size": 23065690,
-          "url": "https://nightly.link/Flow-Tube/Flow-Desktop/actions/runs/42913358077/Flow-nightly-linux-arm64-rpm-1465.zip"
+          "name": "Flow-nightly-linux-arm64-rpm-1474",
+          "size": 23096984,
+          "url": "https://nightly.link/Flow-Tube/Flow-Desktop/actions/runs/43008597870/Flow-nightly-linux-arm64-rpm-1474.zip"
         },
         {
-          "name": "Flow-nightly-linux-x64-deb-1465",
-          "size": 24183927,
-          "url": "https://nightly.link/Flow-Tube/Flow-Desktop/actions/runs/42913358077/Flow-nightly-linux-x64-deb-1465.zip"
+          "name": "Flow-nightly-linux-arm64-appimage-1474",
+          "size": 172787255,
+          "url": "https://nightly.link/Flow-Tube/Flow-Desktop/actions/runs/43008597870/Flow-nightly-linux-arm64-appimage-1474.zip"
         },
         {
-          "name": "Flow-nightly-linux-arm64-deb-1465",
-          "size": 23061927,
-          "url": "https://nightly.link/Flow-Tube/Flow-Desktop/actions/runs/42913358077/Flow-nightly-linux-arm64-deb-1465.zip"
-        },
-        {
-          "name": "Flow-nightly-macos-arm64-1465",
-          "size": 19925177,
-          "url": "https://nightly.link/Flow-Tube/Flow-Desktop/actions/runs/42913358077/Flow-nightly-macos-arm64-1465.zip"
-        },
-        {
-          "name": "Flow-nightly-linux-arm64-appimage-1465",
-          "size": 172735205,
-          "url": "https://nightly.link/Flow-Tube/Flow-Desktop/actions/runs/42913358077/Flow-nightly-linux-arm64-appimage-1465.zip"
-        },
-        {
-          "name": "flatpak-sources-1465",
+          "name": "flatpak-sources-1474",
           "size": 133468,
-          "url": "https://nightly.link/Flow-Tube/Flow-Desktop/actions/runs/42913358077/flatpak-sources-1465.zip"
+          "url": "https://nightly.link/Flow-Tube/Flow-Desktop/actions/runs/43008597870/flatpak-sources-1474.zip"
+        },
+        {
+          "name": "Flow-nightly-windows-arm64-1474",
+          "size": 14057392,
+          "url": "https://nightly.link/Flow-Tube/Flow-Desktop/actions/runs/43008597870/Flow-nightly-windows-arm64-1474.zip"
+        },
+        {
+          "name": "Flow-nightly-macos-arm64-1474",
+          "size": 20025374,
+          "url": "https://nightly.link/Flow-Tube/Flow-Desktop/actions/runs/43008597870/Flow-nightly-macos-arm64-1474.zip"
+        },
+        {
+          "name": "Flow-nightly-linux-x64-rpm-1474",
+          "size": 24316628,
+          "url": "https://nightly.link/Flow-Tube/Flow-Desktop/actions/runs/43008597870/Flow-nightly-linux-x64-rpm-1474.zip"
         }
       ]
     }
