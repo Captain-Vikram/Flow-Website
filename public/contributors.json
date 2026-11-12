@@ -280,6 +280,15 @@
       ]
     },
     {
+      "login": "hamim-ifty",
+      "avatar_url": "https://avatars.githubusercontent.com/u/179929648?v=4",
+      "html_url": "https://github.com/hamim-ifty",
+      "contributions": 4,
+      "repos": [
+        "android"
+      ]
+    },
+    {
       "login": "JonatasVi",
       "avatar_url": "https://avatars.githubusercontent.com/u/86968994?v=4",
       "html_url": "https://github.com/JonatasVi",
@@ -643,15 +652,6 @@
       "login": "gkeyes",
       "avatar_url": "https://avatars.githubusercontent.com/u/25716974?v=4",
       "html_url": "https://github.com/gkeyes",
-      "contributions": 1,
-      "repos": [
-        "android"
-      ]
-    },
-    {
-      "login": "hamim-ifty",
-      "avatar_url": "https://avatars.githubusercontent.com/u/179929648?v=4",
-      "html_url": "https://github.com/hamim-ifty",
       "contributions": 1,
       "repos": [
         "android"
