@@ -2,7 +2,7 @@
   "owner": {
     "avatar_url": "https://avatars.githubusercontent.com/u/98699388?v=4",
     "bio": "AE | Developer. Just a dude building cool things on the internet.",
-    "followers": 294,
+    "followers": 293,
     "html_url": "https://github.com/A-EDev",
     "login": "A-EDev",
     "name": "AE",
@@ -72,19 +72,19 @@
       ]
     },
     {
-      "login": "MattSolo451",
-      "avatar_url": "https://avatars.githubusercontent.com/u/70535762?v=4",
-      "html_url": "https://github.com/MattSolo451",
+      "login": "Chiehx0220",
+      "avatar_url": "https://avatars.githubusercontent.com/u/37178500?v=4",
+      "html_url": "https://github.com/Chiehx0220",
       "contributions": 40,
       "repos": [
         "android"
       ]
     },
     {
-      "login": "Chiehx0220",
-      "avatar_url": "https://avatars.githubusercontent.com/u/37178500?v=4",
-      "html_url": "https://github.com/Chiehx0220",
-      "contributions": 39,
+      "login": "MattSolo451",
+      "avatar_url": "https://avatars.githubusercontent.com/u/70535762?v=4",
+      "html_url": "https://github.com/MattSolo451",
+      "contributions": 40,
       "repos": [
         "android"
       ]
@@ -145,21 +145,21 @@
       ]
     },
     {
+      "login": "Captain-Vikram",
+      "avatar_url": "https://avatars.githubusercontent.com/u/143620162?v=4",
+      "html_url": "https://github.com/Captain-Vikram",
+      "contributions": 16,
+      "repos": [
+        "desktop"
+      ]
+    },
+    {
       "login": "whistlingwoods",
       "avatar_url": "https://avatars.githubusercontent.com/u/72640314?v=4",
       "html_url": "https://github.com/whistlingwoods",
       "contributions": 16,
       "repos": [
         "android"
-      ]
-    },
-    {
-      "login": "Captain-Vikram",
-      "avatar_url": "https://avatars.githubusercontent.com/u/143620162?v=4",
-      "html_url": "https://github.com/Captain-Vikram",
-      "contributions": 15,
-      "repos": [
-        "desktop"
       ]
     },
     {
