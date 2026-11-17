@@ -5,138 +5,138 @@
         "abi": "arm64-v8a",
         "flavor": "github",
         "name": "flow-arm64-v8a.apk",
-        "size": 20804755,
-        "url": "https://github.com/Flow-Tube/Flow/releases/download/v3.0.0/flow-arm64-v8a.apk"
+        "size": 27968548,
+        "url": "https://github.com/Flow-Tube/Flow/releases/download/v3.0.5/flow-arm64-v8a.apk"
       },
       {
         "abi": "armeabi-v7a",
         "flavor": "github",
         "name": "flow-armeabi-v7a.apk",
-        "size": 19787521,
-        "url": "https://github.com/Flow-Tube/Flow/releases/download/v3.0.0/flow-armeabi-v7a.apk"
+        "size": 26951314,
+        "url": "https://github.com/Flow-Tube/Flow/releases/download/v3.0.5/flow-armeabi-v7a.apk"
       },
       {
         "abi": "arm64-v8a",
         "flavor": "foss",
         "name": "flow-foss-arm64-v8a.apk",
-        "size": 20715715,
-        "url": "https://github.com/Flow-Tube/Flow/releases/download/v3.0.0/flow-foss-arm64-v8a.apk"
+        "size": 27815432,
+        "url": "https://github.com/Flow-Tube/Flow/releases/download/v3.0.5/flow-foss-arm64-v8a.apk"
       },
       {
         "abi": "armeabi-v7a",
         "flavor": "foss",
         "name": "flow-foss-armeabi-v7a.apk",
-        "size": 19698481,
-        "url": "https://github.com/Flow-Tube/Flow/releases/download/v3.0.0/flow-foss-armeabi-v7a.apk"
+        "size": 26798198,
+        "url": "https://github.com/Flow-Tube/Flow/releases/download/v3.0.5/flow-foss-armeabi-v7a.apk"
       },
       {
         "abi": "universal",
         "flavor": "foss",
         "name": "flow-foss.apk",
-        "size": 28876218,
-        "url": "https://github.com/Flow-Tube/Flow/releases/download/v3.0.0/flow-foss.apk"
+        "size": 35975935,
+        "url": "https://github.com/Flow-Tube/Flow/releases/download/v3.0.5/flow-foss.apk"
       },
       {
         "abi": "universal",
         "flavor": "github",
         "name": "flow.apk",
-        "size": 28965258,
-        "url": "https://github.com/Flow-Tube/Flow/releases/download/v3.0.0/flow.apk"
+        "size": 36129051,
+        "url": "https://github.com/Flow-Tube/Flow/releases/download/v3.0.5/flow.apk"
       }
     ],
-    "checksums_url": "https://github.com/Flow-Tube/Flow/releases/download/v3.0.0/checksums.txt",
-    "published": "2026-10-17T22:41:10Z",
-    "release_url": "https://github.com/Flow-Tube/Flow/releases/tag/v3.0.0",
-    "tag": "v3.0.0",
-    "version": "3.0.0"
+    "checksums_url": "https://github.com/Flow-Tube/Flow/releases/download/v3.0.5/checksums.txt",
+    "published": "2026-11-16T21:08:47Z",
+    "release_url": "https://github.com/Flow-Tube/Flow/releases/tag/v3.0.5",
+    "tag": "v3.0.5",
+    "version": "3.0.5"
   },
   "desktop": {
     "assets": [
       {
         "arch": "arm64",
         "format": "dmg",
-        "name": "Flow_0.1.0-beta3_darwin_aarch64.dmg",
+        "name": "Flow_0.1.0-beta4_darwin_aarch64.dmg",
         "os": "macos",
-        "size": 14570676,
-        "url": "https://github.com/Flow-Tube/Flow-Desktop/releases/download/v0.1.0-beta3/Flow_0.1.0-beta3_darwin_aarch64.dmg"
+        "size": 18687332,
+        "url": "https://github.com/Flow-Tube/Flow-Desktop/releases/download/v0.1.0-beta4/Flow_0.1.0-beta4_darwin_aarch64.dmg"
       },
       {
         "arch": "x64",
         "format": "dmg",
-        "name": "Flow_0.1.0-beta3_darwin_x64.dmg",
+        "name": "Flow_0.1.0-beta4_darwin_x64.dmg",
         "os": "macos",
-        "size": 15983353,
-        "url": "https://github.com/Flow-Tube/Flow-Desktop/releases/download/v0.1.0-beta3/Flow_0.1.0-beta3_darwin_x64.dmg"
+        "size": 20554677,
+        "url": "https://github.com/Flow-Tube/Flow-Desktop/releases/download/v0.1.0-beta4/Flow_0.1.0-beta4_darwin_x64.dmg"
       },
       {
         "arch": "arm64",
         "format": "AppImage",
-        "name": "Flow_0.1.0-beta3_linux_aarch64.AppImage",
+        "name": "Flow_0.1.0-beta4_linux_aarch64.AppImage",
         "os": "linux",
-        "size": 168135176,
-        "url": "https://github.com/Flow-Tube/Flow-Desktop/releases/download/v0.1.0-beta3/Flow_0.1.0-beta3_linux_aarch64.AppImage"
+        "size": 172222984,
+        "url": "https://github.com/Flow-Tube/Flow-Desktop/releases/download/v0.1.0-beta4/Flow_0.1.0-beta4_linux_aarch64.AppImage"
       },
       {
         "arch": "arm64",
         "format": "rpm",
-        "name": "Flow_0.1.0-beta3_linux_aarch64.rpm",
+        "name": "Flow_0.1.0-beta4_linux_aarch64.rpm",
         "os": "linux",
-        "size": 16819134,
-        "url": "https://github.com/Flow-Tube/Flow-Desktop/releases/download/v0.1.0-beta3/Flow_0.1.0-beta3_linux_aarch64.rpm"
+        "size": 21410849,
+        "url": "https://github.com/Flow-Tube/Flow-Desktop/releases/download/v0.1.0-beta4/Flow_0.1.0-beta4_linux_aarch64.rpm"
       },
       {
         "arch": "x64",
         "format": "AppImage",
-        "name": "Flow_0.1.0-beta3_linux_amd64.AppImage",
+        "name": "Flow_0.1.0-beta4_linux_amd64.AppImage",
         "os": "linux",
-        "size": 177650168,
-        "url": "https://github.com/Flow-Tube/Flow-Desktop/releases/download/v0.1.0-beta3/Flow_0.1.0-beta3_linux_amd64.AppImage"
+        "size": 182041080,
+        "url": "https://github.com/Flow-Tube/Flow-Desktop/releases/download/v0.1.0-beta4/Flow_0.1.0-beta4_linux_amd64.AppImage"
       },
       {
         "arch": "x64",
         "format": "deb",
-        "name": "Flow_0.1.0-beta3_linux_amd64.deb",
+        "name": "Flow_0.1.0-beta4_linux_amd64.deb",
         "os": "linux",
-        "size": 17673362,
-        "url": "https://github.com/Flow-Tube/Flow-Desktop/releases/download/v0.1.0-beta3/Flow_0.1.0-beta3_linux_amd64.deb"
+        "size": 22524106,
+        "url": "https://github.com/Flow-Tube/Flow-Desktop/releases/download/v0.1.0-beta4/Flow_0.1.0-beta4_linux_amd64.deb"
       },
       {
         "arch": "arm64",
         "format": "deb",
-        "name": "Flow_0.1.0-beta3_linux_arm64.deb",
+        "name": "Flow_0.1.0-beta4_linux_arm64.deb",
         "os": "linux",
-        "size": 16813186,
-        "url": "https://github.com/Flow-Tube/Flow-Desktop/releases/download/v0.1.0-beta3/Flow_0.1.0-beta3_linux_arm64.deb"
+        "size": 21405536,
+        "url": "https://github.com/Flow-Tube/Flow-Desktop/releases/download/v0.1.0-beta4/Flow_0.1.0-beta4_linux_arm64.deb"
       },
       {
         "arch": "x64",
         "format": "rpm",
-        "name": "Flow_0.1.0-beta3_linux_x86_64.rpm",
+        "name": "Flow_0.1.0-beta4_linux_x86_64.rpm",
         "os": "linux",
-        "size": 17677071,
-        "url": "https://github.com/Flow-Tube/Flow-Desktop/releases/download/v0.1.0-beta3/Flow_0.1.0-beta3_linux_x86_64.rpm"
+        "size": 22528614,
+        "url": "https://github.com/Flow-Tube/Flow-Desktop/releases/download/v0.1.0-beta4/Flow_0.1.0-beta4_linux_x86_64.rpm"
       },
       {
         "arch": "arm64",
         "format": "exe",
-        "name": "Flow_0.1.0-beta3_windows_arm64-setup.exe",
+        "name": "Flow_0.1.0-beta4_windows_arm64-setup.exe",
         "os": "windows",
-        "size": 10676158,
-        "url": "https://github.com/Flow-Tube/Flow-Desktop/releases/download/v0.1.0-beta3/Flow_0.1.0-beta3_windows_arm64-setup.exe"
+        "size": 13668313,
+        "url": "https://github.com/Flow-Tube/Flow-Desktop/releases/download/v0.1.0-beta4/Flow_0.1.0-beta4_windows_arm64-setup.exe"
       },
       {
         "arch": "x64",
         "format": "exe",
-        "name": "Flow_0.1.0-beta3_windows_x64-setup.exe",
+        "name": "Flow_0.1.0-beta4_windows_x64-setup.exe",
         "os": "windows",
-        "size": 11762496,
-        "url": "https://github.com/Flow-Tube/Flow-Desktop/releases/download/v0.1.0-beta3/Flow_0.1.0-beta3_windows_x64-setup.exe"
+        "size": 15102364,
+        "url": "https://github.com/Flow-Tube/Flow-Desktop/releases/download/v0.1.0-beta4/Flow_0.1.0-beta4_windows_x64-setup.exe"
       }
     ],
-    "published": "2026-10-28T14:35:31Z",
-    "release_url": "https://github.com/Flow-Tube/Flow-Desktop/releases/tag/v0.1.0-beta3",
-    "tag": "v0.1.0-beta3",
-    "version": "0.1.0-beta3"
+    "published": "2026-11-16T21:35:26Z",
+    "release_url": "https://github.com/Flow-Tube/Flow-Desktop/releases/tag/v0.1.0-beta4",
+    "tag": "v0.1.0-beta4",
+    "version": "0.1.0-beta4"
   },
   "izzy": {
     "version": "3.0.0",
@@ -167,75 +167,75 @@
   "nightly": {
     "android": {
       "apk": {
-        "name": "flow-nightly-2538.apk",
-        "size": 36139754,
-        "url": "https://github.com/Flow-Tube/Flow/releases/download/nightly/flow-nightly-2538.apk"
+        "name": "flow-nightly-2550.apk",
+        "size": 36158850,
+        "url": "https://github.com/Flow-Tube/Flow/releases/download/nightly/flow-nightly-2550.apk"
       },
       "checksums_url": "https://github.com/Flow-Tube/Flow/releases/download/nightly/checksums.txt",
-      "commit": "c404f61",
-      "created": "2026-11-16T17:32:13Z",
+      "commit": "429cc09",
+      "created": "2026-11-16T21:07:22Z",
       "release_url": "https://github.com/Flow-Tube/Flow/releases/tag/nightly",
-      "run": 2538
+      "run": 2550
     },
     "desktop": {
-      "created": "2026-11-16T12:19:59Z",
-      "run_url": "https://github.com/Flow-Tube/Flow-Desktop/actions/runs/43865600420",
-      "commit": "b65aeea",
+      "created": "2026-11-16T20:02:31Z",
+      "run_url": "https://github.com/Flow-Tube/Flow-Desktop/actions/runs/43945607786",
+      "commit": "106a0a2",
       "artifacts": [
         {
-          "name": "Flow-nightly-linux-x64-flatpak-1646",
-          "size": 32505573,
-          "url": "https://nightly.link/Flow-Tube/Flow-Desktop/actions/runs/43865600420/Flow-nightly-linux-x64-flatpak-1646.zip"
+          "name": "Flow-nightly-linux-x64-flatpak-1668",
+          "size": 32496859,
+          "url": "https://nightly.link/Flow-Tube/Flow-Desktop/actions/runs/43945607786/Flow-nightly-linux-x64-flatpak-1668.zip"
         },
         {
-          "name": "nightly-windows-x64-1646",
-          "size": 15813670,
-          "url": "https://nightly.link/Flow-Tube/Flow-Desktop/actions/runs/43865600420/nightly-windows-x64-1646.zip"
+          "name": "nightly-macos-arm64-1668",
+          "size": 40433887,
+          "url": "https://nightly.link/Flow-Tube/Flow-Desktop/actions/runs/43945607786/nightly-macos-arm64-1668.zip"
         },
         {
-          "name": "nightly-linux-x64-appimage-1646",
-          "size": 182976102,
-          "url": "https://nightly.link/Flow-Tube/Flow-Desktop/actions/runs/43865600420/nightly-linux-x64-appimage-1646.zip"
+          "name": "nightly-signatures-1668",
+          "size": 5686,
+          "url": "https://nightly.link/Flow-Tube/Flow-Desktop/actions/runs/43945607786/nightly-signatures-1668.zip"
         },
         {
-          "name": "nightly-macos-arm64-1646",
-          "size": 40650627,
-          "url": "https://nightly.link/Flow-Tube/Flow-Desktop/actions/runs/43865600420/nightly-macos-arm64-1646.zip"
+          "name": "nightly-linux-arm64-appimage-1668",
+          "size": 173112356,
+          "url": "https://nightly.link/Flow-Tube/Flow-Desktop/actions/runs/43945607786/nightly-linux-arm64-appimage-1668.zip"
         },
         {
-          "name": "nightly-linux-arm64-appimage-1646",
-          "size": 173232487,
-          "url": "https://nightly.link/Flow-Tube/Flow-Desktop/actions/runs/43865600420/nightly-linux-arm64-appimage-1646.zip"
+          "name": "nightly-linux-arm64-1668",
+          "size": 46921814,
+          "url": "https://nightly.link/Flow-Tube/Flow-Desktop/actions/runs/43945607786/nightly-linux-arm64-1668.zip"
         },
         {
-          "name": "nightly-signatures-1646",
-          "size": 5677,
-          "url": "https://nightly.link/Flow-Tube/Flow-Desktop/actions/runs/43865600420/nightly-signatures-1646.zip"
+          "name": "nightly-windows-arm64-1668",
+          "size": 14421219,
+          "url": "https://nightly.link/Flow-Tube/Flow-Desktop/actions/runs/43945607786/nightly-windows-arm64-1668.zip"
         },
         {
-          "name": "nightly-macos-x64-1646",
-          "size": 44824662,
-          "url": "https://nightly.link/Flow-Tube/Flow-Desktop/actions/runs/43865600420/nightly-macos-x64-1646.zip"
+          "name": "nightly-linux-x64-appimage-1668",
+          "size": 182773131,
+          "url": "https://nightly.link/Flow-Tube/Flow-Desktop/actions/runs/43945607786/nightly-linux-x64-appimage-1668.zip"
         },
         {
-          "name": "nightly-linux-x64-1646",
-          "size": 49636892,
-          "url": "https://nightly.link/Flow-Tube/Flow-Desktop/actions/runs/43865600420/nightly-linux-x64-1646.zip"
+          "name": "nightly-linux-x64-1668",
+          "size": 49180181,
+          "url": "https://nightly.link/Flow-Tube/Flow-Desktop/actions/runs/43945607786/nightly-linux-x64-1668.zip"
         },
         {
-          "name": "nightly-linux-arm64-1646",
-          "size": 47203842,
-          "url": "https://nightly.link/Flow-Tube/Flow-Desktop/actions/runs/43865600420/nightly-linux-arm64-1646.zip"
-        },
-        {
-          "name": "nightly-windows-arm64-1646",
-          "size": 14443632,
-          "url": "https://nightly.link/Flow-Tube/Flow-Desktop/actions/runs/43865600420/nightly-windows-arm64-1646.zip"
-        },
-        {
-          "name": "flatpak-sources-1646",
+          "name": "flatpak-sources-1668",
           "size": 128754,
-          "url": "https://nightly.link/Flow-Tube/Flow-Desktop/actions/runs/43865600420/flatpak-sources-1646.zip"
+          "url": "https://nightly.link/Flow-Tube/Flow-Desktop/actions/runs/43945607786/flatpak-sources-1668.zip"
+        },
+        {
+          "name": "nightly-macos-x64-1668",
+          "size": 44670081,
+          "url": "https://nightly.link/Flow-Tube/Flow-Desktop/actions/runs/43945607786/nightly-macos-x64-1668.zip"
+        },
+        {
+          "name": "nightly-windows-x64-1668",
+          "size": 15923554,
+          "url": "https://nightly.link/Flow-Tube/Flow-Desktop/actions/runs/43945607786/nightly-windows-x64-1668.zip"
         }
       ]
     }
