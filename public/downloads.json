@@ -139,9 +139,9 @@
     "version": "0.1.0-beta4"
   },
   "izzy": {
-    "version": "3.0.0",
-    "version_code": "19",
-    "apk_url": "https://apt.izzysoft.de/fdroid/repo/io.github.aedev.flow_19.apk",
+    "version": "3.0.5",
+    "version_code": "20",
+    "apk_url": "https://apt.izzysoft.de/fdroid/repo/io.github.aedev.flow_20.apk",
     "page_url": "https://apt.izzysoft.de/packages/io.github.aedev.flow"
   },
   "extension": {
@@ -167,15 +167,15 @@
   "nightly": {
     "android": {
       "apk": {
-        "name": "flow-nightly-2552.apk",
-        "size": 36175054,
-        "url": "https://github.com/Flow-Tube/Flow/releases/download/nightly/flow-nightly-2552.apk"
+        "name": "flow-nightly-2553.apk",
+        "size": 36181326,
+        "url": "https://github.com/Flow-Tube/Flow/releases/download/nightly/flow-nightly-2553.apk"
       },
       "checksums_url": "https://github.com/Flow-Tube/Flow/releases/download/nightly/checksums.txt",
-      "commit": "565d1f7",
-      "created": "2026-11-17T06:03:40Z",
+      "commit": "e6a686b",
+      "created": "2026-11-18T00:58:15Z",
       "release_url": "https://github.com/Flow-Tube/Flow/releases/tag/nightly",
-      "run": 2552
+      "run": 2553
     },
     "desktop": {
       "created": "2026-11-16T20:02:31Z",
@@ -221,11 +221,6 @@
           "name": "nightly-linux-x64-1668",
           "size": 49180181,
           "url": "https://nightly.link/Flow-Tube/Flow-Desktop/actions/runs/43945607786/nightly-linux-x64-1668.zip"
-        },
-        {
-          "name": "flatpak-sources-1668",
-          "size": 128754,
-          "url": "https://nightly.link/Flow-Tube/Flow-Desktop/actions/runs/43945607786/flatpak-sources-1668.zip"
         },
         {
           "name": "nightly-macos-x64-1668",
